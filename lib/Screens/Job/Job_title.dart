@@ -11,30 +11,15 @@ class job_title extends StatelessWidget {
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Container(
-            // height: 40,
-            // width: 400,
-            // decoration: BoxDecoration(
-            //   color: Colors.white,
-            //   borderRadius: BorderRadius.circular(3),
-            //   boxShadow: const [
-            //     BoxShadow(
-            //       color: Colors.grey,
-            //       offset: Offset(1, 1),
-            //       blurRadius: 1,
-            //     ),
-            //   ],
-            // ),
-            child: Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: const Text(
-                "JOB Title",
-                style: TextStyle(
-                  fontSize: 20,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.black,
-                ),
+        children: const [
+          Padding(
+            padding: EdgeInsets.all(8.0),
+            child: Text(
+              "JOB Title",
+              style: TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.bold,
+                color: Colors.black,
               ),
             ),
           ),

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108197208285",
+    "project_id": "fir-project2-1169d",
+    "storage_bucket": "fir-project2-1169d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108197208285:android:c2b2506f6270ec40c3bb34",
+        "android_client_info": {
+          "package_name": "com.example.prosper_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108197208285-12stjnj6ka9nivehv0tga98iqq0lascr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWOL9lL8QcyItWI8c__rJArz-6T9m3c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108197208285-12stjnj6ka9nivehv0tga98iqq0lascr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
